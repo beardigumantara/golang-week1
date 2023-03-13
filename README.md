@@ -18,6 +18,7 @@ chall 2
 
 
 my output :
+
 chall 1 
 
 ![image](https://user-images.githubusercontent.com/86141998/224609271-32d06b45-f915-4a9d-9a0b-56de0b0915fd.png)
