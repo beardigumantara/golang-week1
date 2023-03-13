@@ -9,12 +9,18 @@ chall 1 :
 on the comment line
 
 chall 2
+
 ![image](https://user-images.githubusercontent.com/86141998/224609423-8ddcf016-6d3a-4b72-b2c5-14dd6e859e65.png)
+
+
 
 my output :
 chall 1 
+
 ![image](https://user-images.githubusercontent.com/86141998/224609271-32d06b45-f915-4a9d-9a0b-56de0b0915fd.png)
 
+
 chall 2 
+
 ![image](https://user-images.githubusercontent.com/86141998/224609644-e4ff14ac-fd56-42f7-b696-1a7dff2c330e.png)
 
