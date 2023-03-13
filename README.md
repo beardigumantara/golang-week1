@@ -5,12 +5,15 @@ This Repostory is for summary week 1 lesson in learning Golang at Digitalent Hac
 folder chall for challenge
 
 expected output :
+
 chall 1 :
 on the comment line
 
 chall 2
 
-![image](https://user-images.githubusercontent.com/86141998/224609423-8ddcf016-6d3a-4b72-b2c5-14dd6e859e65.png)
+![image](https://user-images.githubusercontent.com/86141998/224609870-b5c2489c-f9af-4d4f-9f18-28a09f3ba617.png)
+
+
 
 
 
