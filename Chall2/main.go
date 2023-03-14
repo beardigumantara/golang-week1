@@ -11,9 +11,9 @@ func main() {
 
 	for {
 		if j == 5 {
-			var russianCity string = "САШАРВО"
+			var tajikWord string = "САШАРВО"
 
-			for index, value := range russianCity {
+			for index, value := range tajikWord {
 				fmt.Printf("character %#U starts at byte position %d \n", value, index)
 			}
 		} else {
