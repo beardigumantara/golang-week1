@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func tes() {
 	fruits := []string{"Apple", "Mango", "Durian", "Apple", "Durian", "Banana", "Mango"}
 
 	fruitGroup, fruitAmount := handleFruitGroup(fruits)

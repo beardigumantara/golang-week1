@@ -26,7 +26,7 @@ type Product struct {
 	formatPrice func(int) string
 }
 
-func tes() {
+func main() {
 	var p1 Product = Product{
 		Id:    "prod-1",
 		Title: "Jas Hujan Kece",
@@ -111,8 +111,8 @@ func tes() {
 
 	_ = productDetail
 
-	// for key, value := range productDetail {
-	// 	fmt.Printf("%s: %+v \n", key, value)
-	// }
+	for key, value := range productDetail {
+		fmt.Printf("%s: %+v \n", key, value)
+	}
 
 }
