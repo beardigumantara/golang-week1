@@ -26,7 +26,7 @@ type Product struct {
 	formatPrice func(int) string
 }
 
-func main() {
+func tes() {
 	var p1 Product = Product{
 		Id:    "prod-1",
 		Title: "Jas Hujan Kece",
